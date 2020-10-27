@@ -1,2 +1,2 @@
 All about GIT Learning
-fav color - White
+fav color - blue
