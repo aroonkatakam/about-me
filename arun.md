@@ -1,2 +1,2 @@
 All about GIT Learning
-This shit is copyrighted ! 
+This shit is copyrighted !! 
